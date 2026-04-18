@@ -1,0 +1,17 @@
+# Obsidian 工作区和缓存
+.obsidian/workspace
+.obsidian/workspaces
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/app.json
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 大文件（超过 100MB 的不要推 GitHub）
+*.zip
+*.tar.gz
+*.rar
+*.pdf
